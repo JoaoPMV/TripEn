@@ -1,0 +1,31 @@
+.page {
+  width: 100%;
+}
+
+.audios {
+  width: 40px;
+}
+
+.audios2 {
+  width: 45px;
+}
+
+#page2 {
+  display: none;
+}
+
+#grammar {
+  display: none;
+}
+
+#vocabulary {
+  display: none;
+}
+
+#home1 {
+  display: none;
+}
+
+#home2 {
+  display: none;
+}
